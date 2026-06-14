@@ -1,0 +1,36 @@
+# Environment Secrets
+.env
+.env.*
+*.local
+credentials.json
+client_secret.json
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Dependencies
+node_modules/
+jspm_packages/
+.pnp
+.pnp.js
+
+# Build Outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+
+# Logs & OS Files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
