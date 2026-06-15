@@ -5,3 +5,6 @@ langchain-groq
 python-dotenv
 pydantic
 duckduckgo-search
+fastapi
+uvicorn
+groq
