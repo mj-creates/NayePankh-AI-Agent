@@ -3,7 +3,7 @@ import axios from "axios";
 import logo from "./assets/logo.png";
 import "./App.css";
 
-const BACKEND_URL = "http://127.0.0.1:8000";
+const BACKEND_URL = "https://nayepankh-ai-agent.onrender.com";
 
 // Helper function to safely parse and render basic markdown (bold, list items)
 // and convert URLs, emails, and phone numbers into clickable links.
